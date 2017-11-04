@@ -1,0 +1,20 @@
+{
+  "name": "weather",
+  "version": "0.1.0",
+  "private": true,
+  "homepage" : "http://lenin-anzen.github.io/intro-to-react",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^4.0.0-beta.2",
+    "react": "^16.0.0",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
